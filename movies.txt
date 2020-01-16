@@ -1,0 +1,42 @@
+Movie
+Avengers: Endgame
+PG
+Anthony Russo, Joe Russo
+Robert Downey Jr, Chris Evans, Mark Ruffalo
+avengers.jpg
+Movie
+Aladdin
+PG
+Guy Ritchie
+Will Smith, Mena Massoud, Naomi Scott
+aladdin.jpg
+Movie
+Pokemon Detective Pikachu
+PG
+Rob Letterman
+Ryan Reynolds, Justice Smith, Kathryn Newton
+detective.jpg
+Movie
+John Wick 3
+14A
+Chad Stahelski
+Keanu Reeves, Halle Berry, Ian McShane
+john.jpg
+Movie
+Godzilla
+PG
+Michael Dougherty
+Kyle Chandler, Vera Farmiga, Millie Bobby Brown
+godzilla.jpg
+Movie
+The Secret Life of Pets 2
+G
+Chris Renaud, Jonathan del Val
+Patton Oswalt, Kevin Hart, Harrison Ford
+secretlife.jpg
+Movie
+A Dog's Journey
+PG
+Gail Mancuso
+Josh Gad, Dennis Quaid, Kathryn Prescott
+dogsjourney.jpg

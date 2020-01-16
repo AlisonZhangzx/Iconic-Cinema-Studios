@@ -1,0 +1,117 @@
+Customer login: az
+Log in date: 12/06/2019
+Snack purchased by: az
+Account history viewed by: az
+Customer logged out: az
+Incorrect username/password for Staff login
+Logged out
+Customer login: user2
+Log in date: 12/06/2019
+Snack purchased by: user2
+Account history viewed by: user2
+Snack purchased by: user2
+Customer logged out: user2
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Snack purchased by: az
+Account history viewed by: az
+Customer logged out: az
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+Logged out
+Customer login: user2
+Log in date: 12/06/2019
+Snack purchased by: user2
+Account history viewed by: user2
+Customer logged out: user2
+
+Logged out
+
+Customer login: az
+Log in date: 12/06/2019
+Snack purchased by: az
+Account history viewed by: az
+Snack purchased by: az
+Account history viewed by: az
+Customer logged out: az
+
+
+Logged out
+
+
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+
+
+
+Logged out
+
+
+
+Customer login: user2
+Log in date: 12/06/2019
+Snack purchased by: user2
+Account history viewed by: user2
+Customer logged out: user2
+.
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+.
+Logged out
+Incorrect username/password entry
+Customer login: az
+Log in date: 12/06/2019
+Account history viewed by: az
+Customer logged out: az
+.
+Logged out
+
+Customer login: az
+Log in date: 12/06/2019
+Customer logged out: az
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Snack purchased by: az
+Account history viewed by: az
+Customer logged out: az
+Staff login: useruser
+Log in date: 12/06/2019
+Staff logged out: useruser
+Manager access confirmed
+Customer login: user2
+Log in date: 12/06/2019
+Account history viewed by: user2
+Customer logged out: user2
+Logged out
+Customer login: user2
+Log in date: 12/06/2019
+Account history viewed by: user2
+Customer logged out: user2
+Logged out
+Incorrect username/password entry
+Incorrect username/password entry
+Logged out
+Manager access confirmed
+Logged out
+Staff login failed
+Staff login failed

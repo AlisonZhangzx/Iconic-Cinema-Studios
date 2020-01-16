@@ -1,0 +1,5 @@
+Account created
+Customer login: bob
+Log in date: 12/06/2019
+Viewed account history
+Logged out

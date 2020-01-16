@@ -1,0 +1,56 @@
+Customer login: az
+Log in date: 12/06/2019
+Snack selected: Burger
+Viewed account history
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Snack selected: Burger
+Viewed account history
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Snack selected: Burger, Burger, Burger
+Viewed account history
+Snack selected: Burger, MaynardsCandy, M & MCandy
+Viewed account history
+Logged out 
+
+
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out 
+
+
+
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out 
+
+Customer login: az
+Log in date: 12/06/2019
+Viewed account history
+Logged out
+
+Customer login: az
+Log in date: 12/06/2019
+Logged out
+Customer login: az
+Log in date: 12/06/2019
+Snack selected: Burger, Burger, Burger
+Viewed account history
+Logged out

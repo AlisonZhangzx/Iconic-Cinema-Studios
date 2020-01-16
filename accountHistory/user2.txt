@@ -1,0 +1,26 @@
+Customer login: user2
+Log in date: 12/06/2019
+Snack selected: Burger, Maynards
+Viewed account history
+Snack selected: Burger
+Logged out
+Customer login: user2
+Log in date: 12/06/2019
+Snack selected: Burger, Burger, Burger 	
+Viewed account history
+Logged out 
+
+Customer login: user2
+Log in date: 12/06/2019
+Snack selected: Burger, Burger, Burger, Burger, Burger, Burger
+Viewed account history
+Logged out 
+
+Customer login: user2
+Log in date: 12/06/2019
+Viewed account history
+Logged out
+Customer login: user2
+Log in date: 12/06/2019
+Viewed account history
+Logged out
